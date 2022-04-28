@@ -34,6 +34,7 @@
   
   clear.addEventListener('click', function(e){
     screen.value = '';
+    eqn = '';
     // screen.value = 0;
 
   })
